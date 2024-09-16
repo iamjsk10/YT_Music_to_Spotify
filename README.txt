@@ -5,6 +5,3 @@ To Run the program:
 4) Get the Client ID and Secret code and add them to a dotenv file
 5) Change the placeholders for playlist URL and name for spotify playlist with the apt ones
 
-
-Limitations
-1) Video title which have name of artist or any other word(s) except those present in the title can't be added
